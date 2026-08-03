@@ -1,0 +1,4 @@
+[custom.all.ddc]
+type = "local"
+path = "."
+ipkg = "ddc.ipkg"
